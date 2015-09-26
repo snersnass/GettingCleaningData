@@ -37,5 +37,3 @@
 
 # 5. Create a tidy data set with average of each variantl for each activity and each subject
 
-
-x
